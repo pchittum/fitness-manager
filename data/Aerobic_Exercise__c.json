@@ -1,0 +1,31 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Aerobic_Exercise__c",
+                "referenceId": "Aerobic_Exercise__cRef1"
+            },
+            "Name": "Stationary Bike",
+            "Description__c": "A 30-minute workout on a stationary bike can burn 300 or more calories, depending on intensity.",
+            "Calories_burnt_per_min__c": 10
+        },
+        {
+            "attributes": {
+                "type": "Aerobic_Exercise__c",
+                "referenceId": "Aerobic_Exercise__cRef2"
+            },
+            "Name": "Running",
+            "Description__c": "A 120-pound person burns about 11.4 calories per minute. So if that person runs a 10-minute mile, they'll burn 114 calories. If that person weighed 180 pounds, the calorie burn goes up to 17 calories per minute.",
+            "Calories_burnt_per_min__c": 11
+        },
+        {
+            "attributes": {
+                "type": "Aerobic_Exercise__c",
+                "referenceId": "Aerobic_Exercise__cRef3"
+            },
+            "Name": "Stairmaster",
+            "Description__c": "Total caloric expenditure on the StairMaster depends on how long you work out. For example, a 160-lb. person burns about 360 calories in 30 minutes and 980 calories in 90 minutes.",
+            "Calories_burnt_per_min__c": 13
+        }
+    ]
+}

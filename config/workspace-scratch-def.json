@@ -1,0 +1,10 @@
+{
+  "Company": "sub5",
+  "Country": "US",
+  "LastName": "smith",
+  "Email": "dburki@salesforce.com",
+  "Edition": "Developer",
+  "OrgPreferences" : {
+    "S1DesktopEnabled" : true
+  }
+}
