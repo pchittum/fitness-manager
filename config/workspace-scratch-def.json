@@ -1,8 +1,9 @@
 {
-  "Company": "sub5",
+  "Company": "SFDX Demo",
   "Country": "US",
-  "LastName": "smith",
-  "Email": "dburki@salesforce.com",
+  "FirstName": "Peter",
+  "LastName": "Chittum",
+  "Email": "pchittum@salesforce.com",
   "Edition": "Developer",
   "OrgPreferences" : {
     "S1DesktopEnabled" : true
