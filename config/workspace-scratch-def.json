@@ -1,8 +1,8 @@
 {
   "Company": "SFDX Demo",
-  "Country": "US",
-  "FirstName": "Peter",
-  "LastName": "Chittum",
+  "Country": "GB",
+  "FirstName": "Astro",
+  "LastName": "Nomical",
   "Email": "pchittum@salesforce.com",
   "Edition": "Developer",
   "OrgPreferences" : {
